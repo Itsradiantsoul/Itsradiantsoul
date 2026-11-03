@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Itsradiantsoul/Itsradiantsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎧 Привет! Я Itsradiantsoul
 
-Here are some ideas to get you started:
+🎙️ Увлекаюсь аудио, технологиями и настройкой звука.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔊 Мои интересы
+- 🎧 Обработка звука
+- 🎛️ Equalizer APO и VST-плагины
+
+### 📌 Мои проекты
+
+🎙️ **[Microphone Equalizer APO](https://github.com/Itsradiantsoul/Microphone-Equalizer-APO)**
+
+---
+
+<div align="center">
