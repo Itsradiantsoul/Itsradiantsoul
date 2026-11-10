@@ -10,7 +10,7 @@
 
 ### 📌 Мои проекты
 
-🎙️ **[Audio-processing](https://github.com/Itsradiantsoul/Audio-processing)**
+🎙️ **[Audio-processing-guide](https://github.com/Itsradiantsoul/Audio-processing-guide)**
 
 ---
 
