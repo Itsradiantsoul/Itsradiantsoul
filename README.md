@@ -10,7 +10,7 @@
 
 ### 📌 Мои проекты
 
-🎙️ **[Microphone Equalizer APO](https://github.com/Itsradiantsoul/Microphone-Equalizer-APO)**
+🎙️ **[Audio-processing](https://github.com/Itsradiantsoul/Audio-processing)**
 
 ---
 
